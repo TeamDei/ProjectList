@@ -1,7 +1,7 @@
 # Project List
 A list of repositories managed by TeamDei
 
-## [In Progress] [Tandem](https://github.com/TeamDei/tandem)
+## [Current] [Tandem](https://github.com/TeamDei/tandem)
 
 Fast, cross-platform, lightweight interactive Latin editor.
 
@@ -9,7 +9,7 @@ Fast, cross-platform, lightweight interactive Latin editor.
  - [x] Tuft University's Perseus API Integration
  - [x] Textual user interface (tui)
 
-## [Postponed] Vulgatabot
+## [Planned] Vulgatabot
 
 A Discord bot to quote passages from the Latin vulgate.
 
